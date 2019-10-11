@@ -1,5 +1,7 @@
 {
   "name": "DemoLogin",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
